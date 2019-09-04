@@ -55,6 +55,7 @@
 		French:"Déclarer la guerre à [civName]?"
 		Simplified_Chinese:"向[civName]宣战吗？"
 		Portuguese:"Deseja declarar guerra a [civName]?"
+		German:"[civName] den Krieg erklären?"
                 Polish:"Wypowiedz wojnę cywilizacji [civName]"
 	}
 	
@@ -101,6 +102,7 @@
 		Portuguese:"Negociar paz"
 		French:"Négocier la paix"
                 Polish:"Negocjuj pokój"
+		German:"Friedensvertrag aushandeln"
 	}
 
 	"Very well.":{
@@ -109,6 +111,7 @@
 		Simplified_Chinese:"很好。"
 		Portuguese:"Muito bem."
                 Polish:"Niech tak będzie."
+		German:"So soll es sein."
 	}
 
 	"Farewell.":{
@@ -117,12 +120,14 @@
 		Simplified_Chinese:"再见。"
 		Portuguese:"Adeus."
                 Polish:"Żegnaj."
+		German:"Auf Wiedersehen."
 	}
 
 	"Sounds good!":{
 		Italian:"Sta bene!"
 		French:"Très bien!"
                 Polish:"Bardzo dobrze!"
+		German:"Das hört sich gut an!"
 	}
 	
 	"Not this time.":{ // declining trade text
@@ -131,6 +136,7 @@
 		French:"Pas cette fois."
 		Portuguese:"Dessa vez não."
                 Polish:"To się nie uda"
+		German:"Nicht jetzt!"
 	}
 
 	"Excellent!":{ // AI statement after we accept a trade they proposed, and when we meet a city state, and our response when they agree to our diplomatic demand
@@ -139,6 +145,7 @@
 		French:"Excellent!"
 		Portuguese:"Excelente!"
                 Polish:"Wyśmienicie!"
+		German:"Ausgezeichnet!"
 	}
 
 	"How about something else...":{ // Counteroffer to AI offer //shouldn't it be 'How about somenthing else?' ?
@@ -147,6 +154,7 @@
 		French:"Pourquoi pas autre chose..."
 		Portuguese:"Porque não algo mais..."
                 Polish:"Oto nasza oferta."
+		German:"Wie sieht es mit einem anderen Thema aus..."
 	}
 	
 	"A pleasure to meet you.":{
@@ -155,6 +163,7 @@
 		Simplified_Chinese:"很高兴见到你。"
 		Portuguese:"Prazer conhece-lo"
                 Polish:"Czuję się zaszczycony."
+		German:"Es freut uns Sie kennen zu lernen."
 	}
 	
 	"Our relationship: ":{
@@ -163,6 +172,7 @@
 		Simplified_Chinese:"我们的关系："
 		Portuguese:"Nossas relações"
                 Polish:"Nasze relacje:"
+		German:"Unser Verhältnis"
 	}
 
 	"We have encountered the City-State of [name]!":{ // e.g. the Cultured city state of Vienna
@@ -170,6 +180,7 @@
 		Portuguese:"Nós encontramos a cidade-estado de [name]"
 		French:"Nous avons rencontré la cité-état de [name]!"
                 Polish:"Napotkaliśmy państwo-miasto o nazwie [name]!"
+		German:"Wir sind auf den Stadtstaat [name] getroffen!"
 	}
 	
 	// Friendship declaration flavor texts
@@ -179,6 +190,7 @@
 		Simplified_Chinese:"宣布相互友善([numberOfTurns]回合)"
 		Portuguese:"Declarar amizade ([numberOfTurns] turns)"
                 Polish:"Zadeklaruj przyjaźń na [numberOfTurns] tur"
+		German:"Erkläre Freundschaft (für [numberOfTurns] Runden)"
 	}
 
 	"May our nations forever remain united!":{
@@ -187,6 +199,7 @@
 		Simplified_Chinese:"我们两个文明将永远肝胆相照、休戚与共地站在一起！"
 		Portuguese:"Que nossas nações se mantenho unidas para sempre!"
                 Polish:"Oby ta przyjaźń już zawsze łączyła nasze cywilizacje!"
+		German:"Mögen unsere Nationen für immer zusammen halten!"
 	}
 
 	"Indeed!":{
@@ -195,6 +208,7 @@
 		Simplified_Chinese:"这是无比正确的命运抉择！"
 		Portuguese:"Perfeito!"
                 Polish:"Wspaniale!"
+		German:"Fürwahr!"
 	}
 	
 	// Denunceation flavour texts
@@ -202,11 +216,13 @@
 		Italian:"Denuncia ([numberOfTurns] turni)"
 		French:"Dénoncer ([numberOfTurns] tours)"
                 Polish:"Potęp cywilizację na [numberOfTurns] tur"
+		German:"Denunzieren (für [numberOfTurns] Runden"
 	}
 	
 	"We will remember this.":{
 		Italian:"Non credere che ce lo scorderemo!"
 		French:"Nous nous en souviendrons."
+		German:"Das werden wir Euch nicht vergessen!"
 	}
 	
 	
@@ -217,6 +233,7 @@
 		French:"Impardonnable"
 		Simplified_Chinese:"仇深似海"
 		Portuguese:"Imperdoável"
+		German:"Todfeind"
   	}
 
   	"Enemy":{
@@ -224,6 +241,7 @@
 		French:"Ennemi"
 		Simplified_Chinese:"宿命之敌"
 		Portuguese:"Inimigos" //as in 'we are enemies' not just 'they are our enemy'
+		German:"Feind"
   	}
 
   	"Competitor":{
@@ -231,6 +249,7 @@
 		French:"Adversaire" //or en compétition
 		Simplified_Chinese:"瑜亮之争"
 		Portuguese:"Adversários"
+		German:"Rivale"
   	}
 
   	"Neutral":{
@@ -238,13 +257,15 @@
 		French:"Neutre"
 		Simplified_Chinese:"泛泛之交"
 		Portuguese:"Neutra" // relation=relação relação is in feminine so therefore neutral(= neutro/neutra) deve ser feminino
-  	}
+		German:"Neutral"
+	}
 
   	"Favorable":{
 		Italian:"Favorevoli"
 		French:"Favorable"
 		Simplified_Chinese:"惺惺相惜"
 		Portuguese:"Favorável"
+		German:"Wohlwollend"
   	}
 
   	"Friend":{
@@ -252,6 +273,7 @@
 		French:"Ami"
 		Simplified_Chinese:"秦晋之好"
 		Portuguese:"Amigos"
+		German:"Freund"
  	 }
 
   	"Ally":{
@@ -259,6 +281,7 @@
 		French:"Allié"
 		Simplified_Chinese:"歃血之盟"
 		Portuguese:"Aliado"
+		German:"Verbündeter"
   	}
 	
 	// City States
@@ -266,26 +289,31 @@
 	"Provides [amountOfCulture] culture at 30 Influence":{
 		Italian:"Dona [amountOfCulture] punti Cultura a minimo 30 Punti Influenza"
 		French:"Fournit [amountOfCulture] de Culture à 30 d'influence"
+		German:"Stellt [amountOfCulture] Kulturpunkte bei 30 Einfluss zur Verfügung"
 	}
 
 	"Provides 3 food in capital and 1 food in other cities at 30 Influence":{
 		Italian:"Dona 3 Cibo alla Capitale e 1 Cibo alle altre Città a minimo 30 Punti Influenza"
 		French:"Fournit 3 Nourriture à la capitale et 1 nourriture pour les autres villes à 30 d'influence"
+		German:"Stellt bei 30 Einfluss drei Nahrung in der Hauptstadt und eine Nahrung in den anderen Städten zur Verfügung"
 	}
 
 	"Provides 3 happiness at 30 Influence":{
 		Italian:"Dona 3 Punti Felicità a minimo 30 Punti Influenza"
 		French:"Fournit 3 de Bonheur à 30 d'influence"
-	},
+		German:"Stellt bei 30 Einfluss drei Zufriedenheitspunkte zur Verfügung"
+	}
 
 	"Provides land units every 20 turns at 30 Influence":{
 		Italian:"Concede un'unità terrestre ogni 20 turni a minimo 30 Punti Influenza"
 		French:"Fournit des unités terrestres tous les 20 tours à 30 d'influence"
-	},
+		German:"Stellt alle 20 Runden bei 30 Einfluss Landeinheiten zur Verfügung"
+	}
 
 	"Gift [goldAmount] gold":{
 		Italian:"Dona [goldAmount] Oro"
 		French:"Donner [goldAmount] ors"
+		German:"Geschenk
 	}
 
 	"Relationship changes in another [turnsToRelationshipChange] turns":{
